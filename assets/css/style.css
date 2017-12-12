@@ -1,11 +1,16 @@
 section#jumbotron{
 	padding: 100px 0px;
 	color: #fff;
-	background-color: #62d2a2;	
 	text-align: center;
 	-webkit-background-size: cover;
 	background-size: cover;
 	background-position: center center;
+	background-color: #777;	
+	-webkit-background-blend-mode: multiply;
+	-moz-background-blend-mode: multiply;
+	-ms-background-blend-mode: multiply;
+	-o-background-blend-mode: multiply;
+	background-blend-mode: multiply;
 }
 
 section#jumbotron h1.header,
